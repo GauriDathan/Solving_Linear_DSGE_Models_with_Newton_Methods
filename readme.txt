@@ -7,8 +7,7 @@ Copyright (C) 2024 Alexander Meyer-Gohde & Johanna Saecker
 1 Environment Setting 
 1.1 Required Software 
 • Please install MATLAB to run the matlab files. For MATLAB, the Optimization Toolbox package, the Statistics Toolbox package and the R2019a or newer versions are required. The program was run using Matlab 2022a. 
-
- • Please install Dynare. The program requires Dynare version 5.1, it is assumed that Dynare is installed in the default location
+• Please install Dynare. The program requires Dynare version 5.1, it is assumed that Dynare is installed in the default location
 • Please go to https://www.dynare.org/resources/quick_start/ for instructions to set up your Dynare in MATLAB or Octave. For Matlab, you can use any Dynare version. 
 
 How to run the files?
