@@ -1,0 +1,54 @@
+Starting Dynare (version 6.1).
+Calling Dynare with arguments: noclearall nograph nostrict
+Starting preprocessing of the model file ... 
+WARNING: in the 'steady_state_model' block, variable 'ewma' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'epinfma' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'zcapf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'rkf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'kf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'pkf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'cf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'invef' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'yf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'labf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'wf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'rrf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'mc' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'zcap' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'rk' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'k' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'pk' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'c' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'inve' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'y' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'lab' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'pinf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'w' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'r' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'a' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'b' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'g' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'qs' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'ms' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'spinf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'sw' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'kpf' is not assigned a value 
+WARNING: in the 'steady_state_model' block, variable 'kp' is not assigned a value 
+Found 40 equation(s). 
+Evaluating expressions... 
+Computing static model derivatives (order 1). 
+Normalizing the static model... 
+Finding the optimal block decomposition of the static model... 
+11 block(s) found: 
+  9 recursive block(s) and 2 simultaneous block(s). 
+  the largest simultaneous block has 13 equation(s) 
+                                 and 13 feedback variable(s). 
+Computing dynamic model derivatives (order 2). 
+Normalizing the dynamic model... 
+Finding the optimal block decomposition of the dynamic model... 
+4 block(s) found: 
+  2 recursive block(s) and 2 simultaneous block(s). 
+  the largest simultaneous block has 13 equation(s) 
+                                 and 12 feedback variable(s). 
+Preprocessing completed. 
+Preprocessing time: 0h00m00s.
