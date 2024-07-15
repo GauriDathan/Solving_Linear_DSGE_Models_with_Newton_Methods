@@ -36,6 +36,8 @@ Directory: "mmb_replication" contains the dynare mod-files of all MMB models use
 
 Appendix (in paper: 6.6): den Haan & Marcet test 
 Directory: "DHM" runs the den Haan & Marcet test
+             - run file "dhm_amg" to create the results
+             - run file "plot_results" to create the tables and figures
 
 %------------------------------------------------------------
 
